@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "micro-dev",
     "precommit": "pretty-quick --staged",
-    "start": "micro"
+    "start": "micro",
+    "build": "build --output public"
   },
   "dependencies": {
     "@moltin/sdk": "github:ynnoj/js-sdk",
