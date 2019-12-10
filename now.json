@@ -1,6 +1,5 @@
 {
   "alias": "moltin-shippo-tracking.now.sh",
-  "dotenv": true,
   "env": {
     "NODE_ENV": "production",
     "MOLTIN_CLIENT_ID": "BuHnPvuboLMYD9nrrDwAFVuWHLjq8X9dJ4xySNbuTN",
