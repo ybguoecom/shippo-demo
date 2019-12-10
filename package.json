@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "micro-dev",
     "precommit": "pretty-quick --staged",
-    "start": "micro"
+    "start": "micro",
     "build": "yarn build"
   },
   "dependencies": {
