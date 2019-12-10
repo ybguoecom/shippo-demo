@@ -7,6 +7,7 @@
     "dev": "micro-dev",
     "precommit": "pretty-quick --staged",
     "start": "micro"
+    "build": "yarn build"
   },
   "dependencies": {
     "@moltin/sdk": "^3.21.0",
