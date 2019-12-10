@@ -3,7 +3,7 @@
   "dotenv": true,
   "env": {
     "NODE_ENV": "production",
-    "MOLTIN_CLIENT_ID": "@moltin-client-key",
-    "MOLTIN_CLIENT_SECRET": "@moltin-secret-key"
+    "MOLTIN_CLIENT_ID": "BuHnPvuboLMYD9nrrDwAFVuWHLjq8X9dJ4xySNbuTN",
+    "MOLTIN_CLIENT_SECRET": "0BDLQj9cRSc2ddtasP2fSvXZ3H48DPBxIhiSxt3s2v"
   }
 }
