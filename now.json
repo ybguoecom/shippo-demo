@@ -1,7 +1,4 @@
 {
   "alias": "moltin-shippo-tracking.now.sh",
-  "dotenv": true,
-  "env": {
-    "NODE_ENV": "production"
-  }
+  "dotenv": true
 }
