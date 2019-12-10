@@ -1,4 +1,9 @@
 {
   "alias": "moltin-shippo-tracking.now.sh",
-  "dotenv": true
+  "dotenv": true,
+  "env": {
+    "NODE_ENV": "production",
+    "MOLTIN_CLIENT_ID": "@moltin-client-key",
+    "MOLTIN_SECRET_KEY": "@moltin-secret-key"
+  }
 }
