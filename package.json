@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "micro-dev",
     "precommit": "pretty-quick --staged",
-    "start": "micro",
-    "build": "build --output public"
+    "start": "micro"
   },
   "dependencies": {
     "@moltin/sdk": "^3.21.0",
